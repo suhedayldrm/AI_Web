@@ -1,6 +1,6 @@
 # AI-Enhanced NLP Web Application
 
-This web application leverages advanced Natural Language Processing (NLP) techniques and integrates the OpenAI API to provide a range of features including text generation with context, multi-document summarization, multilingual sentiment analysis, and emotion recognition.
+This web application leverages advanced NLP techniques and integrates the OpenAI API to provide a range of features including text generation with context, multi-document summarization, multilingual sentiment analysis, and emotion recognition.
 
 ## Getting Started
 
