@@ -4,7 +4,6 @@ from flask import Flask, request, jsonify
 import openai
 from transformers import pipeline
 from flask_cors import CORS
-import pdfplumber
 
 import requests
 
