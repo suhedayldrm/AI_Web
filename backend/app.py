@@ -8,9 +8,6 @@ from transformers import pipeline
 import requests
 
 
-# from werkzeug.utils import secure_filename
-# import fitz  # PyMuPDF for PDF parsing
-import os
 
 UPLOAD_FOLDER = "uploads/"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
